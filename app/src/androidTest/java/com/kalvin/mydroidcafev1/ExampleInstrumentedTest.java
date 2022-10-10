@@ -1,4 +1,4 @@
-package com.kalvin.mydroidcafev1;
+package com.gerry.mydroidcafev1;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.kalvin.mydroidcafev1", appContext.getPackageName());
+        assertEquals("com.gerry.mydroidcafev1", appContext.getPackageName());
     }
 }

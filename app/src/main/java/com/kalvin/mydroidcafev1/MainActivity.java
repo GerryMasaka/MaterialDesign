@@ -1,4 +1,4 @@
-package com.kalvin.mydroidcafev1;
+package com.gerry.mydroidcafev1;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
@@ -32,7 +32,7 @@ import android.widget.Toast;
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.tabs.TabLayout;
 
-import static com.kalvin.mydroidcafev1.R.menu.drawer_menu;
+import static com.gerry.mydroidcafev1.R.menu.drawer_menu;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     private  ImageButton shareApp;
